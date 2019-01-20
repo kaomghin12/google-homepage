@@ -21,7 +21,7 @@ ul.menu li{
     padding: 10px;
 }
 
-header{
+div#top{
     position: fixed;
     top: 0;
     width: 100%;
@@ -31,4 +31,10 @@ header{
     position: fixed;
     top: 35%;
     right: 40%;
+}
+
+div#bottom{
+    position: fixed;
+    bottom: 8%;
+    width: 100%;
 }
