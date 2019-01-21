@@ -11,14 +11,16 @@ ul.menu li{
     position: fixed;
     left: 0px;
     width: 300px;
-    padding: 15px'
+    padding: 15px;
+    text-align: left;
 }
 
 .right{
     position: fixed;
-    right: 0px;
+    right: 0;
     width: 300px;
-    padding: 10px;
+    padding: 15px;
+    text-align: right;
 }
 
 div#top{
