@@ -49,7 +49,11 @@ div#top{
     border: 1px solid rgba(175,175,175,0.3);
     border-radius: 3px;
     box-shadow: 0 1px 2px rgba(0,0,0,0.22);
-}
+    background: url(https://www.gstatic.com/images/branding/googlemic/2x/googlemic_color_24dp.png);
+    background-position: 97%;
+    background-size: 25px;
+    background-repeat: no-repeat;
+    }
 
 #buttons{
     display: inline-block;
@@ -109,4 +113,12 @@ a{
     text-decoration: none;
     color: black;
     padding: 10px;
+}
+
+i{
+    position: fixed;
+    size: 40px;
+    top: 18px;
+    right: 8%;
+    color: #757575;
 }
